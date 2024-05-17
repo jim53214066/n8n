@@ -1,3 +1,4 @@
+groovy
 plugins {
     id 'java-library'
     id 'maven-publish'
@@ -5,13 +6,10 @@ plugins {
 
 group = 'com.seeease.n8n'
 
-
 java {
     sourceCompatibility = JavaVersion.VERSION_11
     targetCompatibility = JavaVersion.VERSION_11
 }
-
-
 
 repositories {
     mavenLocal()
@@ -19,5 +17,5 @@ repositories {
 }
 
 dependencies {
-    api 'com.example:library:1.2.3'
+    api 'com.example:library:1.2.4'
 }
