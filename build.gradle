@@ -16,5 +16,5 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.example:library:1.2.8'
+    implementation 'com.example:library:1.2.9'
 }
