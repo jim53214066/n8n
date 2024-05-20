@@ -16,5 +16,5 @@ repositories {
 }
 
 dependencies {
-    api 'com.example:library:1.2.7'
+    implementation 'com.example:library:1.2.7'
 }
