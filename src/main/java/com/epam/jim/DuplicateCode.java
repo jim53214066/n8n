@@ -6,7 +6,6 @@ public class DuplicateCode {
     }
 
     public int task2(int a, int b) {
-        int sum = a  + b;
-        return sum;
+        return a + b;
     }
 }
