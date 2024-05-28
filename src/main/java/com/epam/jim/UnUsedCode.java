@@ -5,11 +5,6 @@ public class UnUsedCode {
         return "Example String";
     }
 
-    private int calculateSum(int a, int b) {
-        return a + b;
-    }
-
-
     public boolean isGreater(int a, int b) {
         return a > b;
     }
