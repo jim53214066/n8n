@@ -6,6 +6,7 @@ public class MissingBreakStatementInSwitchCase {
         switch (dayOfWeek) {
             case 1:
                 dayName = "Sunday";
+                break;
             case 2:
                 dayName = "Monday";
                 break;
