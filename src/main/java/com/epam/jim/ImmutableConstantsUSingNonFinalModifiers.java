@@ -1,5 +1,5 @@
 package com.epam.jim;
 
-public class ImmutableConstantsUSingNonFinalModifiers {
-    public static int MAX_COUNT = 100;
+public class ImmutableConstantsUsingNonFinalModifiers {
+    public static final int MAX_COUNT = 100;
 }
